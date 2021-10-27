@@ -1,0 +1,7 @@
+const questions = [
+{ questiionType : "text_input",
+  questionText: "whats 9 + 10",
+  correctAnswer: "21"
+  options: "answer_to_question"
+}
+]
