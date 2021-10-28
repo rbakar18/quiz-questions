@@ -1,4 +1,4 @@
-const questions = [
+"questions" = [
 { 
   "qnum" = 1,
   "questionType": "text_input",
