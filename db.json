@@ -1,7 +1,51 @@
 const questions = [
-{ questiionType : "text_input",
-  questionText: "whats 9 + 10",
-  correctAnswer: "21"
-  options: "answer_to_question"
-}
+{ 
+  "qnum" = 1,
+  "questionType": "text_input",
+  "questionText": "Java is a(n) ______-oriented programming language",
+  "correctAnswer": "object",
+  "options": "answer_to_question",
+  "feedback": "That's correct!"
+},
+{ 
+  "qnum" = 2,
+  "questionType" : "text_input",
+  "questionText": "Python is a(n) _______ high-level general-purpose programming language.",
+  "correctAnswer": "interpreted",
+  "options": "answer_to_question",
+  "feedback": "That's right!"
+}, 
+{ 
+  "qnum" = 3,
+  "questionType" : "answer_choice_input",
+  "questionText": "On which platform is Java the most popular language in use?",
+  "correctAnswer": "GitHub",
+  "options": ["Instagram","Facebook","Stack Overflow","GitHub"],
+  "feedback": "You got it!"
+}, 
+{ 
+  "qnum" = 4,
+  "questionType" : "answer_choice_input",
+  "questionText": "Java syntax is similar to ",
+  "correctAnswer": "C.",
+  "options": ["Python.", "C.", "Swift", "Ruby"]
+  "feedback": "Alright!"
+},
+{ 
+  "qnum" = 5,
+  "questionType" : "answer_choice_input",
+  "questionText": "Java syntax is similar to ",
+  "correctAnswer": "C and C++.",
+  "options": [""],
+  "feedback": "Yup!"
+}, 
+{ 
+  "qnum" = 6,
+  "questionType" : "picture_choice_input",
+  "questionText": "What is the mascot for Java? ",
+  "correctAnswer": ""
+  "options": "answer_to_question",
+  "feedback": "Yes!"
+},
+
 ]
