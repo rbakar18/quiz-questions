@@ -1,22 +1,22 @@
 "questions" = [
 { 
-  "qnum" = 1,
+  "qnum" = 0,
   "questionType": "text_input",
   "questionText": "Java is a(n) ______-oriented programming language",
   "correctAnswer": "object",
-  "options": "answer_to_question",
+  "options": ["object","subject","logic","quadratic"],
   "feedback": "That's correct!"
 },
 { 
-  "qnum" = 2,
+  "qnum" = 1,
   "questionType" : "text_input",
   "questionText": "Python is a(n) _______ high-level general-purpose programming language.",
   "correctAnswer": "interpreted",
-  "options": "answer_to_question",
+  "options": ["interpolated","mandated","interpreted","object-oriented"],
   "feedback": "That's right!"
 }, 
 { 
-  "qnum" = 3,
+  "qnum" = 2,
   "questionType" : "answer_choice_input",
   "questionText": "On which platform is Java the most popular language in use?",
   "correctAnswer": "GitHub",
@@ -24,7 +24,7 @@
   "feedback": "You got it!"
 }, 
 { 
-  "qnum" = 4,
+  "qnum" = 3,
   "questionType" : "answer_choice_input",
   "questionText": "Java syntax is similar to ",
   "correctAnswer": "C.",
@@ -32,20 +32,52 @@
   "feedback": "Alright!"
 },
 { 
-  "qnum" = 5,
+  "qnum" = 4,
   "questionType" : "answer_choice_input",
-  "questionText": "Java syntax is similar to ",
-  "correctAnswer": "C and C++.",
-  "options": [""],
+  "questionText": "1. Who is the father of C language?",
+  "correctAnswer": "Dennis Ritchie",
+  "options": ["Steve Jobs","Bill Gates","Mark Zuckerberg","Dennis Ritchie"],
   "feedback": "Yup!"
 }, 
 { 
+  "qnum" = 5,
+  "questionType" : "answer_choice_input",
+  "questionText": "Which component is used to compile, debug and execute the java programs?",
+  "correctAnswer": "JDK",
+  "options": ["JRE","JDK","JVM","CSS"],
+  "feedback": "Yes!"
+},
+{ 
   "qnum" = 6,
-  "questionType" : "picture_choice_input",
+  "questionType" : "answer_choice_input",
+  "questionText": "What is the extension of java code files?",
+  "correctAnswer": ".java",
+  "options": [".class",".js",".java",".txt"],
+  "feedback": "Yes!"
+},
+{ 
+  "qnum" = 7,
+  "questionType" : "answer_choice_input",
+  "questionText": "What is the extension of java code files?",
+  "correctAnswer": ".java",
+  "options": [".class",".js",".java",".txt"],
+  "feedback": "Yes!"
+},
+{ 
+  "qnum" = 8,
+  "questionType" : "answer_choice_input",
+  "questionText": "What will be the output of this Java program?",
+  "correctAnswer": ".java",
+  "options": [".class",".js",".java",".txt"],
+  "feedback": "Yes!"
+},
+{ 
+  "qnum" = ,
+  "questionType" : "answer_choice_input",
   "questionText": "What is the mascot for Java? ",
   "correctAnswer": ""
   "options": "answer_to_question",
   "feedback": "Yes!"
-},
+}
 
 ]
