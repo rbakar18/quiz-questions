@@ -2,7 +2,7 @@
     "questions1" :[ 
     { 
       "qnum" = 1,
-      "questionType": "text_input",
+      "questionType": "answer_choice_input",
       "questionText": "Java is a(n) ______-oriented programming language",
       "correctAnswer": "object",
       "options": ["object","subject","logic","quadratic"],
@@ -10,7 +10,7 @@
     },
     { 
       "qnum" = 2,
-      "questionType" : "text_input",
+      "questionType" : "answer_choice_input",
       "questionText": "Python is a(n) _______ high-level general-purpose programming language.",
       "correctAnswer": "interpreted",
       "options": ["interpolated","mandated","interpreted","object-oriented"],
