@@ -1,70 +1,69 @@
 {
-    "questions1" :[ 
-    { 
-      "qnum" : 1,
-      "questionType": "answer_choice_input",
-      "questionText": "Java is a(n) ______-oriented programming language",
-      "correctAnswer": "object",
-      "options": ["object","subject","logic","quadratic"],
-      "feedback": "Object-oriented programming (OOP) is a programming paradigm based on the concept of objects, which can contain data and code: data in the form of fields (often known as attributes or properties), and code, in the form of procedures (often known as methods)."
-    },
-    { 
-      "qnum" : 2,
-      "questionType" : "answer_choice_input",
-      "questionText": "Python is a(n) _______ high-level general-purpose programming language.",
-      "correctAnswer": "interpreted",
-      "options": ["interpolated","mandated","interpreted","object-oriented"],
-      "feedback": "An interpreter is a computer program that directly executes instructions written in a programming or scripting language, without requiring them previously to have been compiled into a machine language program."
-    }, 
-    { 
-      "qnum" : 3,
-      "questionType" : "answer_choice_input",
-      "questionText": "In which platform is Java the most popular language in use?",
-      "correctAnswer": "GitHub",
-      "options": ["Instagram","Facebook","Stack Overflow","GitHub"],
-      "feedback": "Instagram, Facebook are not programming/hosting platforms. Stack Overflow is a programming support site. GitHub is the guy for you."
-    }, 
-    { 
-      "qnum" : 4,
-      "questionType" : "answer_choice_input",
-      "questionText": "Java syntax is similar to ",
-      "correctAnswer": "C.",
-      "options": ["Python.", "C.", "Swift", "Ruby"]
-      "feedback": "The syntax of Java is similar to C and C++, but has fewer low-level facilities than either of them."
-    },
-    { 
-      "qnum" : 5,
-      "questionType" : "answer_choice_input",
-      "questionText": "1. Who is the father of C language?",
-      "correctAnswer": "Dennis Ritchie",
-      "options": ["Steve Jobs","Bill Gates","Mark Zuckerberg","Dennis Ritchie"],
-      "feedback": "A successor to the programming language B, C was originally developed at Bell Labs by Dennis Ritchie between 1972 and 1973 to construct utilities running on Unix."
-    },
-    { 
-      "qnum" : 6,
-      "questionType" : "answer_choice_input",
-      "questionText": "Which component is used to compile, debug and execute the java programs?",
-      "correctAnswer": "JDK",
-      "options": ["JRE","JDK","JVM","CSS"],
-      "feedback": "The Java Development Kit (JDK), which is intended for software developers and includes development tools such as the Java compiler, Javadoc, Jar, and a debugger."
-    },
-    { 
-      "qnum" : 7,
-      "questionType" : "answer_choice_input",
-      "questionText": "What is the extension of java code files?",
-      "correctAnswer": ".java",
-      "options": [".class",".js",".java",".txt"],
-      "feedback": "The Java code file extenstion is .java"
-    },
-    { 
-      "qnum" : 8,
-      "questionType" : "answer_choice_input",
-      "questionText": "What is the extension of java code files?",
-      "correctAnswer": ".java",
-      "options": [".class",".js",".java",".txt"],
-      "feedback": "The Java code file extenstion is .java"
-    },
-        
-  ]
+	"questions1": [{
+			"qnum": 1,
+			"questionType": "answer_choice_input",
+			"questionText": "Java is a(n) ______-oriented programming language",
+			"correctAnswer": "object",
+			"options": ["object", "subject", "logic", "quadratic"],
+			"feedback": "Object-oriented programming (OOP) is a programming paradigm based on the concept of objects, which can contain data and code: data in the form of fields (often known as attributes or properties), and code, in the form of procedures (often known as methods)."
+		},
+		{
+			"qnum": 2,
+			"questionType": "answer_choice_input",
+			"questionText": "Python is a(n) _______ high-level general-purpose programming language.",
+			"correctAnswer": "interpreted",
+			"options": ["interpolated", "mandated", "interpreted", "object-oriented"],
+			"feedback": "An interpreter is a computer program that directly executes instructions written in a programming or scripting language, without requiring them previously to have been compiled into a machine language program."
+		},
+		{
+			"qnum": 3,
+			"questionType": "answer_choice_input",
+			"questionText": "In which platform is Java the most popular language in use?",
+			"correctAnswer": "GitHub",
+			"options": ["Instagram", "Facebook", "Stack Overflow", "GitHub"],
+			"feedback": "Instagram, Facebook are not programming/hosting platforms. Stack Overflow is a programming support site. GitHub is the guy for you."
+		},
+		{
+			"qnum": 4,
+			"questionType": "answer_choice_input",
+			"questionText": "Java syntax is similar to ",
+			"correctAnswer": "C.",
+			"options": ["Python.", "C.", "Swift", "Ruby"],
+			"feedback": "The syntax of Java is similar to C and C++, but has fewer low-level facilities than either of them."
+		},
+		{
+			"qnum": 5,
+			"questionType": "answer_choice_input",
+			"questionText": "1. Who is the father of C language?",
+			"correctAnswer": "Dennis Ritchie",
+			"options": ["Steve Jobs", "Bill Gates", "Mark Zuckerberg", "Dennis Ritchie"],
+			"feedback": "A successor to the programming language B, C was originally developed at Bell Labs by Dennis Ritchie between 1972 and 1973 to construct utilities running on Unix."
+		},
+		{
+			"qnum": 6,
+			"questionType": "answer_choice_input",
+			"questionText": "Which component is used to compile, debug and execute the java programs?",
+			"correctAnswer": "JDK",
+			"options": ["JRE", "JDK", "JVM", "CSS"],
+			"feedback": "The Java Development Kit (JDK), which is intended for software developers and includes development tools such as the Java compiler, Javadoc, Jar, and a debugger."
+		},
+		{
+			"qnum": 7,
+			"questionType": "answer_choice_input",
+			"questionText": "What is the extension of java code files?",
+			"correctAnswer": ".java",
+			"options": [".class", ".js", ".java", ".txt"],
+			"feedback": "The Java code file extenstion is .java"
+		},
+		{
+			"qnum": 8,
+			"questionType": "answer_choice_input",
+			"questionText": "What is the extension of java code files?",
+			"correctAnswer": ".java",
+			"options": [".class", ".js", ".java", ".txt"],
+			"feedback": "The Java code file extenstion is .java"
+		}
+
+	]
 
 }
