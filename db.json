@@ -46,7 +46,7 @@
       "questionText": "Which component is used to compile, debug and execute the java programs?",
       "correctAnswer": "JDK",
       "options": ["JRE","JDK","JVM","CSS"],
-      "feedback": "The Oracle implementation is packaged into two different distributions: The Java Runtime Environment (JRE) which contains the parts of the Java SE platform required to run Java programs and is intended for end users, and the Java Development Kit (JDK), which is intended for software developers and includes development tools such as the Java compiler, Javadoc, Jar, and a debugger."
+      "feedback": "The Java Development Kit (JDK), which is intended for software developers and includes development tools such as the Java compiler, Javadoc, Jar, and a debugger."
     },
     { 
       "qnum" : 7,
