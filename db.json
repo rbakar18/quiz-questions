@@ -64,23 +64,7 @@
       "options": [".class",".js",".java",".txt"],
       "feedback": "The Java code file extenstion is .java"
     },
-    { 
-      "qnum" : 9,
-      "questionType" : "answer_choice_input",
-      "questionText": "What will be the output of this Java program?",
-      "correctAnswer": ".java",
-      "options": [".class",".js",".java",".txt"],
-      "feedback": "The Java code file extenstion is .java"
-    },
-    { 
-      "qnum" : 10,
-      "questionType" : "answer_choice_input",
-      "questionText": "What will be the output of this Java program?",
-      "correctAnswer": ".java",
-      "options": [".class",".js",".java",".txt"],
-      "feedback": "The Java code file extenstion is .java"
-    },
-
+        
   ]
 
 }
